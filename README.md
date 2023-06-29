@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=개발자%20지원&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=문지원&fontSize=90)
 ## 소개
 
 - 개발자 지원 유튜브 운영
