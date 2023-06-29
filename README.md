@@ -1,6 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=문지원&fontSize=40)
-## 소개
-
-- 개발자 지원 유튜브 운영
-- 디스코드 디오봇 프로젝트의 총괄
-- 디스코드 오픈소스 프로젝트 팀의 팀장
+<center>가운데</center>
