@@ -1,10 +1,7 @@
 <div align="center">
   <h2>
-    지원이 왔어요~ 👋
+    지원
   </h2>
-  <h4>
-    인문계 고등학교에서 재학하면서 코딩하는 학생입니다! 🧑‍🎓
-  </h4>
    <a href="https://velog.io/@j-iwon" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
 
